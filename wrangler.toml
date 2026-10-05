@@ -1,11 +1,11 @@
-name = "auto-reaction-bot"
+name = "auto-reaction-bot-v6"
 main = "api/worker.js"
 compatibility_date = "2026-10-02"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "reaction-bot"
-database_id = "demo"
+database_name = "reaction-botv"
+database_id = "demoz"
 
 [[queues.producers]]
 binding = "BROADCAST_QUEUE"
