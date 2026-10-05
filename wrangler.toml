@@ -4,8 +4,8 @@ compatibility_date = "2026-10-02"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "reaction-botv"
-database_id = "demoz"
+database_name = "reaction-bot"
+database_id = "demo"
 
 [[queues.producers]]
 binding = "BROADCAST_QUEUE"
